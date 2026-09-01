@@ -29,9 +29,22 @@
 ---
 
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=kayaneramos&show_icons=true&bg_color=F3F3F3&title_color=E89AAF&text_color=4A4A4A&icon_color=E89AAF&hide_border=true&include_all_commits=false&count_private=false"
+  />
+</p>
 
-![](https://github-readme-stats.shion.dev/api?username=kayaneramos&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kayaneramos&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayaneramos&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=kayaneramos&background=F3F3F3&border=F3F3F3&stroke=E89AAF&ring=E89AAF&fire=E89AAF&currStreakNum=4A4A4A&sideNums=4A4A4A&currStreakLabel=E89AAF&sideLabels=4A4A4A&dates=8A8A8A&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=kayaneramos&bg_color=F3F3F3&title_color=E89AAF&text_color=4A4A4A&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+  />
+</p>
 
 
