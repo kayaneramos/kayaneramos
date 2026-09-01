@@ -29,10 +29,14 @@
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kayaneramos&show_icons=true&hide_title=true&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=kayaneramos&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayaneramos&bg_color=ffffff&color=24292f&line=E89AAF&point=E89AAF&area=true&area_color=F8DDE4&hide_border=true&hide_title=true&height=250" width="70%"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaneramos&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=kayaneramos&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=kayaneramos&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=kayaneramos&layout=compact&hide_border=true" height="150"/>
 </p>
