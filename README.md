@@ -27,12 +27,6 @@
 
 
 ---
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kayaneramos"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 <p align="center">
   <img
