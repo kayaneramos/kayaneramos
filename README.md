@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-  ╭──────────────────────────────╮<br>
-  │     hello, i'm kayane!       │<br>
-  │                              │<br>
-  │   IT for business @ fatec    │<br>
-  │   interested in data &       │<br>
-  │   technology                 │<br>
-  ╰──────────────────────────────╯
+  <strong>hello, i'm kayane!</strong><br><br>
+  
+  [ studying ] IT for business @ fatec<br>
+  [ focus    ] data & technology
 </p>
