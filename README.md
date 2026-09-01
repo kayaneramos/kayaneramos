@@ -29,7 +29,7 @@
 ---
 
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=kayaneramos&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kayaneramos&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayaneramos&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
