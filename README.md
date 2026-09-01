@@ -7,12 +7,12 @@
 ♡ interested in data & technology
 
 
-<br>
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-E89AAF?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-E89AAF?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-E89AAF?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-E89AAF?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-E89AAF?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
 </p>
