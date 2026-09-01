@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>hello, i'm kayane!</strong><br><br>
-  
-  [ studying ] IT for business @ fatec<br>
-  [ focus    ] data & technology
+
+  ┌ IT for business @ fatec<br>
+  └ interested in data & technology
 </p>
