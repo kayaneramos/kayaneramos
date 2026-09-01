@@ -28,6 +28,12 @@
 
 ---
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kayaneramos&bg_color=F3F3F3&color=4A4A4A&line=E89AAF&point=E89AAF&area=true&area_color=F8DDE4&hide_border=true&hide_title=true"
+    width="70%"
+  />
+</p>
 
 <p align="center">
   <img
