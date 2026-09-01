@@ -3,5 +3,5 @@
 </p>
 
 <h3>hello, i'm kayane!</h3>
-it for business @ fatec<br>
-interested in data & technology
+┌ it for business @ fatec<br>
+└ interested in data & technology
