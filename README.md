@@ -28,15 +28,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayaneramos&bg_color=ffffff&color=24292f&line=E89AAF&point=E89AAF&area=true&area_color=F8DDE4&hide_border=true&hide_title=true&height=250" width="70%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=kayaneramos&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=kayaneramos&hide_border=true" height="150"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kayaneramos&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kayaneramos&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayaneramos&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=kayaneramos&layout=compact&hide_border=true" height="150"/>
-</p>
+
