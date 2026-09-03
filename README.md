@@ -3,9 +3,10 @@
 </p>
 
 <h3>hello, i'm kayane!</h3>
+
 ୨୧ IT for business @ fatec<br>
-⌕ learning Power BI, SQL, Python & Java<br>
 ♡ interested in data & technology<br>
+⌕ learning Power BI, SQL, Python & Java<br>
 ⌂ currently building little projects and exploring data
 
 
