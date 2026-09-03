@@ -5,6 +5,8 @@
 <h3>hello, i'm kayane!</h3>
 ୨୧ IT for business @ fatec<br>
 ♡ interested in data & technology
+⌕ learning SQL, Python, Java & Power BI 
+⌂ currently building little projects and exploring data
 
 
 ---
